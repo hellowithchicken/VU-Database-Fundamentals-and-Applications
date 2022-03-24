@@ -1,0 +1,35 @@
+geo_id,abbrv,Name,Code,vaccine_population
+0,AT,Austria,AT,7358443
+1,BE,Belgium,BE,9202196
+2,BG,Bulgaria,BG,5761802
+3,CH,Switzerland,CH,NULL
+4,CY,Cyprus,CY,717452
+5,CZ,Czech Republic,CZ,8694474
+6,DE,Germany,DE,69488809
+7,DK,Denmark,DK,4666625
+8,EA19,Euro area - 19 countries (from 2015),EA19,NULL
+9,EE,Estonia,EE,1071932
+10,EL,Greece,EL,8864187
+11,ES,Spain,ES,39006858
+12,EU27_2020,European Union - 27 countries (from 2020),EU27_2020,NULL
+13,FI,Finland,FI,4476235
+14,FR,France,FR,52780048
+15,HR,Croatia,HR,3360840
+16,HU,Hungary,HU,8060478
+17,IE,Ireland,IE,3762805
+18,IS,Iceland,IS,282770
+19,IT,Italy,IT,50208329
+20,LT,Lithuania,LT,2295269
+21,LU,Luxembourg,LU,506569
+22,LV,Latvia,LV,1548218
+23,MT,Malta,MT,432616
+24,NL,Netherlands,NL,14070340
+25,NO,Norway,NO,4248972
+26,PL,Poland,PL,31044901
+27,PT,Portugal,PT,8578859
+28,RO,Romania,RO,15684219
+29,SE,Sweden,SE,8147081
+30,SI,Slovenia,SI,1724466
+31,SK,Slovakia,SK,4437897
+32,TR,Turkey,TR,NULL
+33,UK,United Kingdom,UK,NULL
