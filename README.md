@@ -18,7 +18,7 @@ The aim of the assignments is to give students an apportunity to learn how to in
 ## Tableau assignment:
 
 - [Tutorial](https://github.com/hellowithchicken/VU-Database-Fundamentals-and-Applications/tree/main/Tableau-MySQL/Tutorial) explaining how to connect to MySQL with Tableau and perform basic visualisations.
-- [Assignment](https://github.com/hellowithchicken/VU-Database-Fundamentals-and-Applications/blob/main/Assigment-outline.pdf) uses vaccination data from [ECDC]() and youth unemployment data from [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Youth_unemployment) to built basic visualisations, perform calculations and integrate SQL queries in Tableau.
+- [Assignment](https://github.com/hellowithchicken/VU-Database-Fundamentals-and-Applications/blob/main/Assigment-outline.pdf) uses vaccination data from [ECDC](https://www.ecdc.europa.eu/en/publications-data/covid-19-vaccine-tracker) and youth unemployment data from [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Youth_unemployment) to built basic visualisations, perform calculations and integrate SQL queries in Tableau.
 - R code used for transforming the csv files to format appropriate for relational databases can be found [here](https://github.com/hellowithchicken/VU-Database-Fundamentals-and-Applications/tree/main/Tableau-MySQL/Data-preparation).
 
 <p align="center">
